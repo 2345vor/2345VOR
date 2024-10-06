@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 👋 Hi, I’m @2345VOR
+- 👋 Hi, I’m [@2345VOR](https://shields.io/badges)
 - 👀 I’m interested in Reinforcement Learning and Self-Driving
 - 🌱 I’m currently learning RL, Python, C++, Control Theory, and specializing in **Global Path Planning**, **Local Dynamic Obstacle Avoidance**, **Agent Autonomous Control** for USVs, and **Multi-Agent System**, **Cooperative Control**, **Distributed Algorithms** for multi-agent systems
 - 📫 Reach me through 3126171871@qq.com
