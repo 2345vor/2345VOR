@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Static Badge](https://img.shields.io/badge/2345VOR-CSDN-red)](https://blog.csdn.net/VOR234?type=blog)
-[![](https://img.shields.io/badge/2345VOR-BiliBili-pink)](https://space.bilibili.com/2345VOR)
+[![](https://img.shields.io/badge/2345VOR-BiliBili-pink)](https://space.bilibili.com/397281451?spm_id_from=333.937.0.0)
 
 
 
